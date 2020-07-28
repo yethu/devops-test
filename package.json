@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node $NODE_OPTIONS node_modules/node-red/red.js $FLOWS"
+    "start": "[YOUR_MAY_NEED_TO_CHANGE_HERE_AS_WELL]"
   },
   "dependencies": {
     "mongodb": "^3.5.6",
